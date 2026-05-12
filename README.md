@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
-**An advanced hybrid deep learning system combining CNN and LSTM for real-time network intrusion detection with 98%+ accuracy.**
+**An advanced hybrid deep learning system combining CNN and LSTM for real-time network intrusion detection with 88%+ accuracy.**
 
 ---
 
@@ -41,7 +41,7 @@ This hybrid approach achieves **superior detection accuracy** compared to tradit
 
 ### Core Capabilities
 - ✅ **Hybrid Deep Learning Model** - CNN + LSTM architecture
-- ✅ **High Accuracy** - 98%+ detection rate for network attacks
+- ✅ **High Accuracy** - 88%+ detection rate for network attacks
 - ✅ **Binary Classification** - Distinguishes between normal traffic and attacks
 - ✅ **Comprehensive Preprocessing** - Feature engineering, normalization, and encoding
 - ✅ **Real-time Compatible** - Optimized for streaming data processing
